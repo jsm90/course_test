@@ -24,7 +24,7 @@ Tables & Web-links             e.g. www.google.com.
 
 Resource        | Web-link   
 --------------- | -------------------------------------------------------------------------------------------      
-Combine course  | [Combine Github repo](http://combine-australia.github.io/2016-05-11-RNAseq/).  
+Combine Github  | [Combine Github repo](http://combine-australia.github.io/2016-05-11-RNAseq/).  
 Linear Models   | [CRUK Github repo](https://bioinformatics-core-shared-training.github.io/linear-models-r/).  
 
 Inserting graphics    e.g. coffee-break & biscuits.   
