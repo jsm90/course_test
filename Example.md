@@ -28,7 +28,7 @@ Combine Resource  | [Combine Github repo](http://combine-australia.github.io/201
 Linear Models   | [CRUK Github repo](https://bioinformatics-core-shared-training.github.io/linear-models-r/).  
 
 Inserting graphics    e.g. coffee-break & biscuits.   
-![picture alt](Screenshots/SS1_small.png "Example image").  
+![picture](SS1_small.png "Example image").  
 Tick-boxes.  
 - [ ] Have we done this?
 - [x] Have we done that?   
